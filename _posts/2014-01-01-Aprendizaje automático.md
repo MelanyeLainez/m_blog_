@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Aprendizaje automático"
-image: image2.jpg 
+css: image2.jpg 
+
 ---
 
 Es un método de análisis de datos que automatiza la construcción de modelos analíticos. Es una rama de la inteligencia artificial basada en la idea de que los sistemas pueden aprender de datos, identificar patrones y tomar decisiones con mínima intervención humana.
@@ -14,5 +15,6 @@ El resurgimiento del interés en el aprendizaje basado en máquina se debe a los
 Todas estas cosas significan que es posible producir modelos de manera rápida y automática que puedan analizar datos más grandes y complejos y producir resultados más rápidos y precisos – incluso en una escala muy grande. Y con la construcción de modelos precisos, una organización tiene una mejor oportunidad de identificar oportunidades rentables – o de evitar riesgos desconocidos.
 
 ---
-image: cards.jpg
+css: cards.jpg
+
 ---
