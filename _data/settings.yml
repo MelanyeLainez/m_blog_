@@ -1,8 +1,6 @@
 
-
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'facebook', link: 'https://www.facebook.com/MelanyeLainez/'}
 - {icon: 'instagram', link: 'http://www.instagram.com/melanye_26/'}
-# - {icon: 'rss-square', link: '/rss-feed.xml'}
+
 
