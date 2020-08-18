@@ -8,7 +8,7 @@ categories: journal
 
 La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con el propósito de crear máquinas que presenten las mismas capacidades que el ser humano. Una tecnología que todavía nos resulta lejana y misteriosa, pero que desde hace unos años está presente en nuestro día a día a todas horas.
 
-## [TIPOS DE INTELIGENCIA ARTIFICIAL]
+## TIPOS DE INTELIGENCIA ARTIFICIAL
 
 Los expertos en ciencias de la computación Stuart Russell y Peter Norvig diferencian varios tipos de inteligencia artificial:
 
