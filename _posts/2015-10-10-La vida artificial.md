@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La vida artificial"
-css: forest.jpg
+image: forest.jpg
 
 ---
 
@@ -10,6 +10,6 @@ El científico Christopher Langton fue el primero en utilizar el término a fine
 Existen tres tipos principales de vida artificial,  nombrados de acuerdo a su enfoque: soft, con un enfoque en el software; hard, con un enfoque en el hardware; y wet, con un enfoque en la bioquímica.
 
 ---
-css: image1.jpg
+image: image1.jpg
 
 ---
