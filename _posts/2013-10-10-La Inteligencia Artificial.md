@@ -3,6 +3,7 @@ layout: post
 title: "La Inteligencia Artificial"
 author: "Paul Le"
 categories: journal
+css: image.jpg
 
 ---
 
@@ -21,5 +22,6 @@ Los expertos en ciencias de la computación Stuart Russell y Peter Norvig difere
 •	Sistemas que actúan racionalmente: idealmente, son aquellos que tratan de imitar de manera racional el comportamiento humano, como los agentes inteligentes.
 
 ---
-image: spools.jpg
+css: spools.jpg
+
 ---
