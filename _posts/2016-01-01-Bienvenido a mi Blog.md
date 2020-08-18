@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¡Bienvenido a mi Blog!"
-css: mountains.jpg
+image: mountains.jpg
 
 ---
 ## Biografía
