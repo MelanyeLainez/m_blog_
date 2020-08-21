@@ -1,6 +1,8 @@
 ---
 layout: page
-title: ¡Hola, Bienvenido!
+title: ¡Hola, Bienvenido a mi Blog!
+image: mountains.jpg
+
 ---
 
 Mi nombre es Melanye Lainez, tengo 19 años, nací el 23 de febrero del 2001, soy ecuatoriana.
