@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Estudios
 image: image00.jpg
 
