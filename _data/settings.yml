@@ -1,6 +1,6 @@
 menu:
-- {name: 'Biografía', path: 'menu', url: 'about.html'}
-- {name: 'Estudios', path: 'menu', url: 'writing.html'}
+- {name: 'Biografía', path: 'menu', url: 'Biografía.html'}
+- {name: 'Estudios', path: 'menu', url: 'Estudios.html'}
 
 social:
 - {icon: 'facebook', link: 'https://www.facebook.com/MelanyeLainez/'}
