@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: ¡Hola, Bienvenido a mi Blog!
 image: mountains.jpg
 
